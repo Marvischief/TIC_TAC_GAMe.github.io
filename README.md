@@ -7,7 +7,7 @@
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- Play the gane seamlessly.
+- Play the game seamlessly.
 
 ### Screenshot
 
@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [tictactoe-marvis-dev.com](https://marvischief.github.io/TIC_TAC_GAMe.github.io/)
 
 ## My process
 
