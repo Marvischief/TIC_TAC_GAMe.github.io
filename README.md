@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](img/tictactoe.mov)
+![](img/tictactoe.mp4)
 ![](img/tic.png)
 
 
